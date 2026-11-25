@@ -34,7 +34,7 @@ With over 20 years of experience bridging engineering, technology, and business 
 
 - **[QA & SQL Data Migration Validation Suite](https://github.com/suhair-habib/qa-sql-data-validation-suite)** – *Automated SQL validation queries, QA test cases, and UAT checklists for enterprise data migration.*
 - **[Automated UI & Regression Testing Framework](https://github.com/suhair-habib/automated-ui-regression-framework)** – *End-to-end automated web testing suite built with Java 17, Selenium WebDriver 4, and TestNG to streamline regression cycles and defect reporting.*
-- **[Engineering Document Control & Operations Portal](#)** – *Web-based workflow and document tracking solution designed to standardize engineering revisions, approvals, and vendor handoffs.*
+- **[Engineering Document Control & Operations Portal](https://github.com/suhair-habib/engineering-doc-control-portal)** ([Live Demo](https://suhair-habib.github.io/engineering-doc-control-portal/)) – *Web-based workflow and document tracking solution built with HTML5, CSS3, and JavaScript to standardize engineering revisions, approvals, and vendor handoffs.*
 
 ---
 
