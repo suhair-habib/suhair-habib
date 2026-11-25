@@ -32,8 +32,6 @@ With over 20 years of experience bridging engineering, technology, and business 
 
 ### 🚀 Featured Work & Focus Areas
 
-*(Tip: Replace the placeholders below with links to your pinned repositories or case studies as you add them to GitHub)*
-
 * **[QA & SQL Data Migration Validation Suite](https://github.com/suhair-habib/qa-sql-data-validation-suite)** – *Automated SQL validation queries, QA test cases, and UAT checklists for enterprise data migration.*
 ---
 
