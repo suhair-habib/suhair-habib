@@ -4,10 +4,10 @@
 
 With over 20 years of experience bridging engineering, technology, and business operations, I specialize in building reliable software solutions, streamlining technical workflows, and coordinating complex projects from planning through execution. 
 
-* 🎓 **Education:** B.Sc. in Computer Engineering | Certified in Software Development (Java) & Software Testing
-* 🏛️ **Professional Registration:** P.Eng. applicant with APEGA *(in progress)* | Preparing for the NPPE
-* 📍 **Location:** Edmonton, Alberta, Canada
-* 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/suhair-habib/) <!-- Add your email or portfolio link here if desired -->
+- 🎓 **Education:** B.Sc. in Computer Engineering | Certified in Software Development (Java) & Software Testing
+- 🏛️ **Professional Registration:** P.Eng. applicant with APEGA *(in progress)* | Preparing for the NPPE
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/suhair-habib/)
 
 ---
 
@@ -24,18 +24,20 @@ With over 20 years of experience bridging engineering, technology, and business 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Quality Assurance & Operations**
-* **Software Testing:** Manual & Automated Testing, Test Case Design & Execution, Defect Tracking, User Acceptance Testing (UAT)
-* **Engineering & Project Operations:** Document Control, Automated Document Management Systems, Workflow Optimization, Data Migration, Vendor & Subcontractor Coordination
-* **Enterprise Platforms:** Microsoft 365 Administration, Google Workspace Administration, Relational Databases
+- **Software Testing:** Manual & Automated Testing, Test Case Design & Execution, Defect Tracking, User Acceptance Testing (UAT)
+- **Engineering & Project Operations:** Document Control, Automated Document Management Systems, Workflow Optimization, Data Migration, Vendor & Subcontractor Coordination
+- **Enterprise Platforms:** Microsoft 365 Administration, Google Workspace Administration, Relational Databases
 
 ---
 
 ### 🚀 Featured Work & Focus Areas
 
-* **[QA & SQL Data Migration Validation Suite](https://github.com/suhair-habib/qa-sql-data-validation-suite)** – *Automated SQL validation queries, QA test cases, and UAT checklists for enterprise data migration.*
+- **[QA & SQL Data Migration Validation Suite](https://github.com/suhair-habib/qa-sql-data-validation-suite)** – *Automated SQL validation queries, QA test cases, and UAT checklists for enterprise data migration.*
+- **[Automated UI & Regression Testing Framework](#)** – *End-to-end automated web testing suite built with Java/C# and Selenium to streamline regression cycles and defect reporting.*
+- **[Engineering Document Control & Operations Portal](#)** – *Web-based workflow and document tracking solution designed to standardize engineering revisions, approvals, and vendor handoffs.*
+
 ---
 
 ### 📊 GitHub Activity
 
-<!-- Optional: Replace suhair-habib with your actual GitHub handle to display live stats -->
 ![Suhair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhair-habib&show_icons=true&theme=default&hide_border=true)
