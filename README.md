@@ -34,8 +34,7 @@ With over 20 years of experience bridging engineering, technology, and business 
 
 *(Tip: Replace the placeholders below with links to your pinned repositories or case studies as you add them to GitHub)*
 
-* **[Project Name 1]** – *Automated Document Management / Workflow Tool*  
-  Brief 1-sentence summary of the problem it solves and the stack used (e.g., Java, SQL).
+* **[QA & SQL Data Migration Validation Suite](https://github.com/suhair-habib/qa-sql-data-validation-suite)** – *Automated SQL validation queries, QA test cases, and UAT checklists for enterprise data migration.*
 * **[Project Name 2]** – *QA Test Automation Framework*  
   Brief 1-sentence summary highlighting automated test coverage, reporting, or UAT workflows.
 * **[Project Name 3]** – *Web Application / Business Operations Dashboard*  
