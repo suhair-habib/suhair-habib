@@ -37,5 +37,5 @@ With over 20 years of experience bridging engineering, technology, and business 
 
 ### 📊 GitHub Activity
 
-<!-- Optional: Replace YOUR_GITHUB_USERNAME with your actual GitHub handle to display live stats -->
-![Suhair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+<!-- Optional: Replace suhair-habib with your actual GitHub handle to display live stats -->
+![Suhair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhair-habib&show_icons=true&theme=default&hide_border=true)
